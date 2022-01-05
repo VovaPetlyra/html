@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="stylesheet" href="css/customer.css">
-    <title>myprogect</title>
-</head>
-<body>
-   <div class="products-carousel">
-    
-     <button class="products-carousel__button back">&#8656;</button>
-      <div class="products-carousel__slide"></div>
-      <button class="products-carousel__button forward">&#8658;</button>
-  </div>
-    <!--Volodymyr Petlyra-->
-    <div class="container_customer_reviews">
+<!--Volodymyr Petlyra-->
+    <!--<div class="container_customer_reviews">
       <div class="slider__wrapper">
-        
+        <button class="slider back">back</button>
       <article class="slider__item">
         <img width="120" src="img/photo_amanda.webp" alt="photo_amanda">
         <h2>Amanda Peterson</h2>
@@ -42,7 +26,7 @@
           out, ZEN Cottages had the right solution for us.”</p>
         <h3>21 OCTOBER, 2020</h3>
         </article>
-      
+      <button class="slider forward">forward</button>
     </div>
     </div>
     <script src="js/slid.js"></script>
